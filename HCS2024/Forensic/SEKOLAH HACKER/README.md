@@ -9,4 +9,6 @@ Author: DJumanto
 In the challange, it was given pdf but there is a redacted line. So to see it, i used this website (https://lingojam.com/Redactedtext)
 
 ## Flag
-`HCS{H4rusnya_1n1_D1r3d4ct3d_6574937128181}`
+```
+HCS{H4rusnya_1n1_D1r3d4ct3d_6574937128181}
+```
