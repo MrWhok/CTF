@@ -34,4 +34,6 @@ correct_flag = find_correct_order(parts, target_hash)
 print(f"The flag is: {correct_flag}")
 ```
 ## Flag
-`HCS{c5d87a505f8a5590a6ccf659dc8014e}`
+```
+HCS{c5d87a505f8a5590a6ccf659dc8014e}
+```
