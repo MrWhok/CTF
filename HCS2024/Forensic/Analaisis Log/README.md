@@ -53,7 +53,7 @@ If we decode this, we get like this
 ```
 echo 'cnB1YiAnPD9jdWMgcnB1YiAiVWJ5biBmcnpobmFsbiwgZnJ6YnRuIG92Zm4gem5maHggVVBGIExOTk4iID8+JyA+PiAvaW5lL2pqai91Z3p5L3FoZmdueF8zMjMxMi5jdWM=' | base64 -d | tr 'A-Za-z' 'N-ZA-Mn-za-m' | bash
 ```
-And if we execute it in terminal, we will get 
+And if we execute it in terminal, we will get <br>
 ![lastline2](https://github.com/user-attachments/assets/27627591-989c-4b40-a039-219e3dbb3441)
 As we can see, the answer is
 ```
