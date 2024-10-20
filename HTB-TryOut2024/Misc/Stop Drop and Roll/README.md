@@ -40,3 +40,6 @@ while True:
         break
 ```
 ## Flag 
+```
+HTB{1_wiLl_sT0p_dR0p_4nD_r0Ll_mY_w4Y_oUt!}
+```
